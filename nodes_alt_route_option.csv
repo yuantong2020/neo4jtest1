@@ -1,0 +1,54 @@
+﻿alt_route_id,alt_route,label
+ALT_ROUTE_0001,CFRP,AltRouteOption
+ALT_ROUTE_0002,铁氧体(Mn-Zn),AltRouteOption
+ALT_ROUTE_0003,NMC三元（无Fe）,AltRouteOption
+ALT_ROUTE_0004,电化学合成氨（N₂+H⁺）,AltRouteOption
+ALT_ROUTE_0005,Mg合金（更轻）,AltRouteOption
+ALT_ROUTE_0006,超导线（HTS）,AltRouteOption
+ALT_ROUTE_0007,固态电池（Ti/SS集流体可能替代）,AltRouteOption
+ALT_ROUTE_0008,MOF载体（金属有机框架）,AltRouteOption
+ALT_ROUTE_0009,玄武岩纤维复材,AltRouteOption
+ALT_ROUTE_0010,固态Li金属负极（无石墨）,AltRouteOption
+ALT_ROUTE_0011,Si IGBT（成熟但性能低）,AltRouteOption
+ALT_ROUTE_0012,直接电还原（熔融氧化物电解）,AltRouteOption
+ALT_ROUTE_0013,氨分解制氢+SOFC,AltRouteOption
+ALT_ROUTE_0014,电化学直接合成氨（无H₂）,AltRouteOption
+ALT_ROUTE_0015,直接电解铁（熔融氧化物电解MOE）,AltRouteOption
+ALT_ROUTE_0016,CFRP（冷区结构）,AltRouteOption
+ALT_ROUTE_0017,Al合金（研究堆，低功率）,AltRouteOption
+ALT_ROUTE_0018,SiO₂（5nm以下绝对无法用）,AltRouteOption
+ALT_ROUTE_0019,B₄C（轻水堆）,AltRouteOption
+ALT_ROUTE_0020,CBN（立方氮化硼）刀具,AltRouteOption
+ALT_ROUTE_0021,陶瓷基复合材料（SiC/SiC CMC）,AltRouteOption
+ALT_ROUTE_0022,Li电池长时储能,AltRouteOption
+ALT_ROUTE_0023,TMCP（热机械控制工艺）结合其他元素,AltRouteOption
+ALT_ROUTE_0024,MLCC（多层陶瓷电容，BaTiO₃）,AltRouteOption
+ALT_ROUTE_0025,EV（零尾气排放）,AltRouteOption
+ALT_ROUTE_0026,Fe-N-C单原子催化（无Pt）,AltRouteOption
+ALT_ROUTE_0027,碱性电解（ALK，无贵金属）,AltRouteOption
+ALT_ROUTE_0028,金属化图形印刷精度提升（减少Ag用量）,AltRouteOption
+ALT_ROUTE_0029,固态继电器（无机械接触）,AltRouteOption
+ALT_ROUTE_0030,FC（倒装芯片，无键合线）,AltRouteOption
+ALT_ROUTE_0031,N/A,AltRouteOption
+ALT_ROUTE_0032,固态电解质（无液态电解液）,AltRouteOption
+ALT_ROUTE_0033,磷回收（污水/有机废弃物）,AltRouteOption
+ALT_ROUTE_0034,原子层刻蚀（ALE，精度更高）,AltRouteOption
+ALT_ROUTE_0035,无机密封材料（特定工况）,AltRouteOption
+ALT_ROUTE_0036,不锈钢（无需防腐涂层）,AltRouteOption
+ALT_ROUTE_0037,导电胶（ACF/ICA）,AltRouteOption
+ALT_ROUTE_0038,超级电容+小锂电（微混合动力）,AltRouteOption
+ALT_ROUTE_0039,CFRP（比强度更高）,AltRouteOption
+ALT_ROUTE_0040,真空脱气（VOD）,AltRouteOption
+ALT_ROUTE_0041,N/A（SiO₂仍在中大尺寸芯片使用）,AltRouteOption
+ALT_ROUTE_0042,Si基HEMT（SiGe，低频）,AltRouteOption
+ALT_ROUTE_0043,固态Li-S,AltRouteOption
+ALT_ROUTE_0044,Th-232→U-233循环,AltRouteOption
+ALT_ROUTE_0045,铀燃料循环,AltRouteOption
+ALT_ROUTE_0046,晶界扩散技术,AltRouteOption
+ALT_ROUTE_0047,SiC,AltRouteOption
+ALT_ROUTE_0048,GaN on Si,AltRouteOption
+ALT_ROUTE_0049,液态电解液,AltRouteOption
+ALT_ROUTE_0050,聚合物固态,AltRouteOption
+ALT_ROUTE_0051,氧化物固态,AltRouteOption
+ALT_ROUTE_0052,SiC/SiC CMC,AltRouteOption
+ALT_ROUTE_0053,钙钛矿-Si叠层,AltRouteOption

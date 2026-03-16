@@ -1,0 +1,19 @@
+﻿material_id,material_name_cn,material_name_en,material_class,structure_type,key_properties,processing_route,recycling_flag,material_status,label
+MT_LFP_CATHODE,磷酸铁锂正极,LFP Cathode,BATTERY_MATERIAL,OLIVINE,安全性高、成本低、循环寿命长,前驱体-烧结-包覆,True,MASS_PRODUCTION,Material
+MT_NCM_CATHODE,三元正极,NCM Cathode,BATTERY_MATERIAL,LAYERED,高能量密度,前驱体-共沉淀-烧结-包覆,True,MASS_PRODUCTION,Material
+MT_GRAPHITE_ANODE,石墨负极,Graphite Anode,BATTERY_MATERIAL,LAYERED,嵌锂性能好、工艺成熟,石墨化-包覆,True,MASS_PRODUCTION,Material
+MT_COPPER_FOIL,铜箔,Copper Foil,CONDUCTOR,FOIL,高导电、薄型化,电解/压延,True,MASS_PRODUCTION,Material
+MT_AL_FOIL,铝箔,Aluminum Foil,CONDUCTOR,FOIL,轻量化、集流体,轧制,True,MASS_PRODUCTION,Material
+MT_SINGLE_CRYSTAL_SI,单晶硅,Single-crystal Silicon,SEMICONDUCTOR,SINGLE_CRYSTAL,高纯、可控掺杂,拉晶-切片-抛光,True,MASS_PRODUCTION,Material
+MT_POLY_SI_PV,光伏多晶硅,Polysilicon for PV,SEMICONDUCTOR,POLYCRYSTAL,光伏级高纯硅,还原-沉积-破碎,True,MASS_PRODUCTION,Material
+MT_SIC_WAFER,碳化硅衬底,SiC Wafer,SEMICONDUCTOR,SINGLE_CRYSTAL,高耐压、高温、高导热,晶体生长-切磨抛,True,MASS_PRODUCTION,Material
+MT_GAN_EPI,氮化镓外延材料,GaN Epitaxy,SEMICONDUCTOR,THIN_FILM,高频高效,外延生长,False,MASS_PRODUCTION,Material
+MT_NDFEB_MAGNET,钕铁硼磁材,NdFeB Magnet,MAGNET,SINTERED,高磁能积,熔炼-粉末-取向-烧结,True,MASS_PRODUCTION,Material
+MT_ELECTRICAL_STEEL,电工钢,Electrical Steel,STRUCTURAL,POLYCRYSTAL,低铁损、高磁导,冶金-轧制-退火,True,MASS_PRODUCTION,Material
+MT_CU_WIRE_ROD,铜线杆,Copper Wire Rod,CONDUCTOR,POLYCRYSTAL,导电骨干材料,精炼-连铸连轧,True,MASS_PRODUCTION,Material
+MT_AL_BUSBAR,铝母排,Aluminum Busbar,CONDUCTOR,POLYCRYSTAL,轻量导体,挤压-机加工,True,MASS_PRODUCTION,Material
+MT_PT_CATALYST,铂催化剂,Platinum Catalyst,CATALYST,SUPPORTED,高催化活性,沉积-负载-活化,True,MASS_PRODUCTION,Material
+MT_IR_ANODE_CATALYST,铱基阳极催化剂,Iridium Anode Catalyst,CATALYST,SUPPORTED,PEM析氧关键,负载-烧结,True,EARLY_SCALE,Material
+MT_TI_ALLOY,钛合金,Titanium Alloy,STRUCTURAL,ALLOY,高比强度、耐腐蚀,熔炼-锻造-热处理,True,MASS_PRODUCTION,Material
+MT_SI_PV_WAFER,光伏硅片,Silicon PV Wafer,SEMICONDUCTOR,WAFER,光电转换基底,拉晶/铸锭-切片,True,MASS_PRODUCTION,Material
+MT_SILICON_ANODE_BLEND,硅碳负极,Silicon-carbon Anode,BATTERY_MATERIAL,COMPOSITE,提升能量密度,包覆-复合,True,EARLY_SCALE,Material

@@ -1,0 +1,50 @@
+﻿element_id,symbol,element_name_cn,element_name_en,atomic_number,period_group_class,primary_domain,primary_domain_cn,criticality_level,cluster_membership_count,cluster_keys,source_origins,notes,label
+EL_H,H,氢,Hydrogen,1,第1族 / 非金属,ENERGY_CARRIER,能量载体,L2,2,"CL_O_H,CL_G_C01_H","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_LI,Li,锂,Lithium,3,第1族 / 碱金属,ENERGY_STORAGE,储能,L1,1,CL_G_C17_LINA,"GRAPH,LEGACY_XLSX",电池、储能、高比能体系入口元素; 部分体系可被Na替代，但高能量密度场景难替代,Element
+EL_C,C,碳,Carbon,6,第14族 / 非金属,ENERGY_STORAGE,储能,L1,2,"CL_O_C,CL_G_C02_C","GRAPH,LEGACY_XLSX,ONTOLOGY",石墨负极、碳材料、结构与导电平台; 形态丰富,Element
+EL_N,N,氮,Nitrogen,7,第15族 / 非金属,CHEMICAL_BASE,化工基础,L2,2,"CL_O_O_N,CL_G_C03_NO","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_O,O,氧,Oxygen,8,第16族 / 非金属,CHEMICAL_BASE,化工基础,L2,2,"CL_O_O_N,CL_G_C03_NO","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_F,F,氟,Fluorine,9,第17族 / 卤素,CHEMICAL_BASE,化工基础,L2,2,"CL_O_P_F,CL_G_C06_PF","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_NA,Na,钠,Sodium,11,第1族 / 碱金属,ENERGY_STORAGE,储能,L1,1,CL_G_C17_LINA,GRAPH,V2导入：来自GRAPH,Element
+EL_MG,Mg,镁,Magnesium,12,第2族 / 碱土金属,STRUCTURE,结构,L2,2,"CL_O_Mg_Ca,CL_G_C09_MGCA","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_AL,Al,铝,Aluminum,13,第13族 / 金属,ELECTRIFICATION,电气化,L1,2,"CL_O_Al,CL_G_C04_AL","GRAPH,LEGACY_XLSX,ONTOLOGY",导体、轻量化、封装、光伏边框; 成本与轻量化优势显著,Element
+EL_SI,Si,硅,Silicon,14,第14族 / 类金属,SEMICONDUCTOR,半导体,L1,1,CL_G_C20_SI,"GRAPH,LEGACY_XLSX",逻辑芯片、功率器件、光伏、硅氧化物; 平台型文明元素,Element
+EL_P,P,磷,Phosphorus,15,第15族 / 非金属,ENERGY_STORAGE,储能,L2,2,"CL_O_P_F,CL_G_C06_PF","GRAPH,LEGACY_XLSX,ONTOLOGY",LFP阴离子骨架、化工; 供应链相对分散,Element
+EL_S,S,硫,Sulfur,16,第16族 / 非金属,CHEMICAL_BASE,化工基础,L2,1,CL_G_C13_SCLS,GRAPH,V2导入：来自GRAPH,Element
+EL_CL,Cl,氯,Chlorine,17,第17族 / 卤素,CHEMICAL_BASE,化工基础,L2,1,CL_G_C13_SCLS,GRAPH,V2导入：来自GRAPH,Element
+EL_CA,Ca,钙,Calcium,20,第2族 / 碱土金属,CHEMICAL_BASE,化工基础,L2,2,"CL_O_Mg_Ca,CL_G_C09_MGCA","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_TI,Ti,钛,Titanium,22,过渡金属,STRUCTURE,结构,L2,2,"CL_O_Ti_Zr_Hf,CL_G_C07_TIZRHF","GRAPH,LEGACY_XLSX,ONTOLOGY",轻质高强、耐腐蚀、电解槽结构件; 高端制造关键结构元素,Element
+EL_V,V,钒,Vanadium,23,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_CR,Cr,铬,Chromium,24,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_MN,Mn,锰,Manganese,25,过渡金属,ENERGY_STORAGE,储能,L2,1,CL_G_C19_NICOMN,"GRAPH,LEGACY_XLSX",电池正极、钢铁添加; 可提升低成本体系占比,Element
+EL_FE,Fe,铁,Iron,26,过渡金属,STRUCTURE,结构,L1,2,"CL_O_Fe,CL_G_C05_FE","GRAPH,LEGACY_XLSX,ONTOLOGY",钢铁、电工钢、LFP骨架; 储量大，可规模化,Element
+EL_CO,Co,钴,Cobalt,27,过渡金属,ENERGY_STORAGE,储能,L2,1,CL_G_C19_NICOMN,"GRAPH,LEGACY_XLSX",高镍正极稳定、超合金、催化; 电池中有去钴趋势,Element
+EL_NI,Ni,镍,Nickel,28,过渡金属,ENERGY_STORAGE,储能,L1,1,CL_G_C19_NICOMN,"GRAPH,LEGACY_XLSX",高能量密度正极、合金、催化; 可被Mn/Fe部分替代,Element
+EL_CU,Cu,铜,Copper,29,过渡金属,ELECTRIFICATION,电气化,L1,1,CL_G_C18_CU,"GRAPH,LEGACY_XLSX",导线、铜箔、互连、电机绕组; 电气化底层导体,Element
+EL_ZN,Zn,锌,Zinc,30,后过渡金属,CHEMICAL_BASE,化工基础,L2,2,"CL_O_Zn_Sn_Pb,CL_G_C12_ZNSNPB","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_GA,Ga,镓,Gallium,31,第13族 / 后过渡金属,SEMICONDUCTOR,半导体,L1,1,CL_G_C16_GAGEIN,"GRAPH,LEGACY_XLSX",GaN/化合物半导体; 功率与射频关键,Element
+EL_GE,Ge,锗,Germanium,32,第14族 / 类金属,SEMICONDUCTOR,半导体,L1,1,CL_G_C16_GAGEIN,GRAPH,V2导入：来自GRAPH,Element
+EL_ZR,Zr,锆,Zirconium,40,过渡金属,STRUCTURE,结构,L2,2,"CL_O_Ti_Zr_Hf,CL_G_C07_TIZRHF","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_NB,Nb,铌,Niobium,41,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_MO,Mo,钼,Molybdenum,42,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_RU,Ru,钌,Ruthenium,44,贵金属,CATALYSIS,催化,L1,2,"CL_O_PGM,CL_G_C11_PGM","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_RH,Rh,铑,Rhodium,45,贵金属,CATALYSIS,催化,L1,2,"CL_O_PGM,CL_G_C11_PGM","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_PD,Pd,钯,Palladium,46,贵金属,CATALYSIS,催化,L1,2,"CL_O_PGM,CL_G_C11_PGM","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_AG,Ag,银,Silver,47,贵金属,CONDUCTING,导电/导热,L2,2,"CL_O_Ag_Au,CL_G_C10_AGAU","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_IN,In,铟,Indium,49,第13族 / 后过渡金属,SEMICONDUCTOR,半导体,L1,1,CL_G_C16_GAGEIN,GRAPH,V2导入：来自GRAPH,Element
+EL_SN,Sn,锡,Tin,50,后过渡金属,SEMICONDUCTOR,半导体,L1,2,"CL_O_Zn_Sn_Pb,CL_G_C12_ZNSNPB","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_LA,La,镧,Lanthanum,57,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,GRAPH,V2导入：来自GRAPH,Element
+EL_CE,Ce,铈,Cerium,58,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,GRAPH,V2导入：来自GRAPH,Element
+EL_PR,Pr,镨,Praseodymium,59,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,"GRAPH,LEGACY_XLSX",与Nd共同构成高性能磁材; 永磁体系关键,Element
+EL_ND,Nd,钕,Neodymium,60,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,"GRAPH,LEGACY_XLSX",高性能永磁体核心; 高端电机关键元素,Element
+EL_TB,Tb,铽,Terbium,65,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,"GRAPH,LEGACY_XLSX",提升高端磁材性能; 供应敏感,Element
+EL_DY,Dy,镝,Dysprosium,66,稀土,MAGNETIC,磁性,L1,1,CL_G_C15_REE,"GRAPH,LEGACY_XLSX",提高高温磁体抗退磁能力; 高温电驱重要,Element
+EL_HF,Hf,铪,Hafnium,72,过渡金属,SEMICONDUCTOR,半导体,L1,2,"CL_O_Ti_Zr_Hf,CL_G_C07_TIZRHF","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_TA,Ta,钽,Tantalum,73,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_W,W,钨,Tungsten,74,过渡金属,HIGH_TEMP,高温极端,L2,2,"CL_O_Cr_Mo_W_V_Nb_Ta,CL_G_C08_REFRACTORY","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_IR,Ir,铱,Iridium,77,贵金属,CATALYSIS,催化,L1,2,"CL_O_PGM,CL_G_C11_PGM","GRAPH,LEGACY_XLSX,ONTOLOGY",PEM电解槽阳极催化; 极高稀缺性,Element
+EL_PT,Pt,铂,Platinum,78,贵金属,CATALYSIS,催化,L1,2,"CL_O_PGM,CL_G_C11_PGM","GRAPH,LEGACY_XLSX,ONTOLOGY",燃料电池、催化剂; 高活性高成本,Element
+EL_AU,Au,金,Gold,79,贵金属,CONDUCTING,导电/导热,L2,2,"CL_O_Ag_Au,CL_G_C10_AGAU","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_PB,Pb,铅,Lead,82,后过渡金属,NUCLEAR,核/辐射,L2,2,"CL_O_Zn_Sn_Pb,CL_G_C12_ZNSNPB","GRAPH,ONTOLOGY","V2导入：来自GRAPH,ONTOLOGY",Element
+EL_TH,Th,钍,Thorium,90,锕系,NUCLEAR,核/辐射,L2,1,CL_G_C14_UTHF,GRAPH,V2导入：来自GRAPH,Element
+EL_U,U,铀,Uranium,92,锕系,NUCLEAR,核/辐射,L2,1,CL_G_C14_UTHF,GRAPH,V2导入：来自GRAPH,Element

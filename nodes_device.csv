@@ -1,0 +1,13 @@
+﻿device_id,device_name_cn,device_name_en,device_class,core_function,performance_metric,lifecycle_stage,label
+DV_LI_ION_CELL_EV,动力锂离子电芯,EV Li-ion Cell,BATTERY_CELL,储存并释放车辆用电,能量密度、倍率、循环寿命,MASS_PRODUCTION,Device
+DV_LFP_STORAGE_CELL,储能LFP电芯,LFP Storage Cell,BATTERY_CELL,储能场景电力时间平移,安全性、寿命、成本,MASS_PRODUCTION,Device
+DV_SIC_MOSFET,SiC功率MOSFET,SiC MOSFET,POWER_DEVICE,高压高效电能转换,耐压、开关损耗、热性能,MASS_PRODUCTION,Device
+DV_GAN_CHARGER_CHIP,GaN快充芯片,GaN Fast Charger IC,POWER_DEVICE,高频高功率密度电源转换,频率、效率、功率密度,MASS_PRODUCTION,Device
+DV_CPU_LOGIC,逻辑处理器,Logic Processor,LOGIC_CHIP,通用计算与控制,算力、功耗、良率,MASS_PRODUCTION,Device
+DV_PV_CELL,晶硅太阳能电池,Crystalline Silicon Solar Cell,PHOTOVOLTAIC_DEVICE,光电转换,转换效率、衰减率,MASS_PRODUCTION,Device
+DV_PV_MODULE,光伏组件,PV Module,PHOTOVOLTAIC_MODULE,发电单元封装输出,功率、耐候性,MASS_PRODUCTION,Device
+DV_EV_DRIVE_MOTOR,新能源汽车驱动电机,EV Drive Motor,ELECTRIC_MACHINE,电转动、牵引驱动,功率密度、效率、扭矩,MASS_PRODUCTION,Device
+DV_WIND_PM_GENERATOR,永磁风电发电机,PM Wind Generator,ELECTRIC_MACHINE,风能转电能,效率、可靠性、维护周期,MASS_PRODUCTION,Device
+DV_TRANSFORMER,变压器,Transformer,GRID_EQUIPMENT,电压等级转换,效率、损耗、可靠性,MASS_PRODUCTION,Device
+DV_PEM_ELECTROLYZER_STACK,PEM电解槽堆,PEM Electrolyzer Stack,HYDROGEN_DEVICE,制氢,电流密度、效率、寿命,EARLY_SCALE,Device
+DV_FUEL_CELL_STACK,燃料电池堆,Fuel Cell Stack,HYDROGEN_DEVICE,电化学发电,功率密度、寿命、铂载量,EARLY_SCALE,Device

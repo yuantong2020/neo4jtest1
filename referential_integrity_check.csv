@@ -1,0 +1,11 @@
+﻿edge_file,rows,missing_start_nodes,missing_end_nodes
+edges_belongs_to.csv,98,0,0
+edges_enables.csv,51,0,0
+edges_used_in.csv,18,0,0
+edges_part_of.csv,13,0,0
+edges_deployed_in.csv,10,0,0
+edges_sub_material.csv,71,0,0
+edges_sub_route.csv,53,0,0
+edges_sub_system.csv,52,0,0
+edges_affects.csv,194,0,0
+edges_supported_by.csv,221,0,0

@@ -1,0 +1,99 @@
+﻿rel_id,start_id,end_id,start_label,end_label,relationship_type,role,note
+RCE_O_Fe_Fe,EL_FE,CL_O_Fe,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Al_Al,EL_AL,CL_O_Al,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_C_C,EL_C,CL_O_C,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_H_H,EL_H,CL_O_H,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Ti_Zr_Hf_Ti,EL_TI,CL_O_Ti_Zr_Hf,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Ti_Zr_Hf_Zr,EL_ZR,CL_O_Ti_Zr_Hf,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Ti_Zr_Hf_Hf,EL_HF,CL_O_Ti_Zr_Hf,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_Cr,EL_CR,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_Mo,EL_MO,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_W,EL_W,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_V,EL_V,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_Nb,EL_NB,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Cr_Mo_W_V_Nb_Ta_Ta,EL_TA,CL_O_Cr_Mo_W_V_Nb_Ta,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_PGM_Pt,EL_PT,CL_O_PGM,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_PGM_Pd,EL_PD,CL_O_PGM,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_PGM_Rh,EL_RH,CL_O_PGM,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_PGM_Ru,EL_RU,CL_O_PGM,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_PGM_Ir,EL_IR,CL_O_PGM,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Ag_Au_Ag,EL_AG,CL_O_Ag_Au,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Ag_Au_Au,EL_AU,CL_O_Ag_Au,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_P_F_P,EL_P,CL_O_P_F,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_P_F_F,EL_F,CL_O_P_F,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Zn_Sn_Pb_Zn,EL_ZN,CL_O_Zn_Sn_Pb,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Zn_Sn_Pb_Sn,EL_SN,CL_O_Zn_Sn_Pb,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Zn_Sn_Pb_Pb,EL_PB,CL_O_Zn_Sn_Pb,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Mg_Ca_Mg,EL_MG,CL_O_Mg_Ca,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_Mg_Ca_Ca,EL_CA,CL_O_Mg_Ca,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_O_N_O,EL_O,CL_O_O_N,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_O_O_N_N,EL_N,CL_O_O_N,Element,Cluster,BELONGS_TO,primary,来源：ontology_data.js
+RCE_G_C01_H_H,EL_H,CL_G_C01_H,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C02_C_C,EL_C,CL_G_C02_C,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C03_NO_N,EL_N,CL_G_C03_NO,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C03_NO_O,EL_O,CL_G_C03_NO,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C04_AL_Al,EL_AL,CL_G_C04_AL,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C05_FE_Fe,EL_FE,CL_G_C05_FE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C06_PF_P,EL_P,CL_G_C06_PF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C06_PF_F,EL_F,CL_G_C06_PF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C07_TIZRHF_Ti,EL_TI,CL_G_C07_TIZRHF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C07_TIZRHF_Zr,EL_ZR,CL_G_C07_TIZRHF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C07_TIZRHF_Hf,EL_HF,CL_G_C07_TIZRHF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_Cr,EL_CR,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_Mo,EL_MO,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_W,EL_W,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_V,EL_V,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_Nb,EL_NB,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C08_REFRACTORY_Ta,EL_TA,CL_G_C08_REFRACTORY,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C09_MGCA_Mg,EL_MG,CL_G_C09_MGCA,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C09_MGCA_Ca,EL_CA,CL_G_C09_MGCA,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C10_AGAU_Ag,EL_AG,CL_G_C10_AGAU,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C10_AGAU_Au,EL_AU,CL_G_C10_AGAU,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C11_PGM_Pt,EL_PT,CL_G_C11_PGM,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C11_PGM_Pd,EL_PD,CL_G_C11_PGM,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C11_PGM_Rh,EL_RH,CL_G_C11_PGM,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C11_PGM_Ru,EL_RU,CL_G_C11_PGM,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C11_PGM_Ir,EL_IR,CL_G_C11_PGM,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C12_ZNSNPB_Zn,EL_ZN,CL_G_C12_ZNSNPB,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C12_ZNSNPB_Sn,EL_SN,CL_G_C12_ZNSNPB,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C12_ZNSNPB_Pb,EL_PB,CL_G_C12_ZNSNPB,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C13_SCLS_S,EL_S,CL_G_C13_SCLS,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C13_SCLS_Cl,EL_CL,CL_G_C13_SCLS,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C14_UTHF_U,EL_U,CL_G_C14_UTHF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C14_UTHF_Th,EL_TH,CL_G_C14_UTHF,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_Nd,EL_ND,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_Pr,EL_PR,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_Dy,EL_DY,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_Tb,EL_TB,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_La,EL_LA,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C15_REE_Ce,EL_CE,CL_G_C15_REE,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C16_GAGEIN_Ga,EL_GA,CL_G_C16_GAGEIN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C16_GAGEIN_Ge,EL_GE,CL_G_C16_GAGEIN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C16_GAGEIN_In,EL_IN,CL_G_C16_GAGEIN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C17_LINA_Li,EL_LI,CL_G_C17_LINA,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C17_LINA_Na,EL_NA,CL_G_C17_LINA,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C18_CU_Cu,EL_CU,CL_G_C18_CU,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C19_NICOMN_Ni,EL_NI,CL_G_C19_NICOMN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C19_NICOMN_Co,EL_CO,CL_G_C19_NICOMN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C19_NICOMN_Mn,EL_MN,CL_G_C19_NICOMN,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_G_C20_SI_Si,EL_SI,CL_G_C20_SI,Element,Cluster,BELONGS_TO,primary,来源：gen_fn_map*.js
+RCE_O2_S_Cl_S,EL_S,CL_O_S_Cl,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_S_Cl_Cl,EL_CL,CL_O_S_Cl,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_U_Th_U,EL_U,CL_O_U_Th,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_U_Th_Th,EL_TH,CL_O_U_Th,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_Nd,EL_ND,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_Pr,EL_PR,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_Dy,EL_DY,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_Tb,EL_TB,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_La,EL_LA,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_REE_Ce,EL_CE,CL_O_REE,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ga_Ge_In_Ga,EL_GA,CL_O_Ga_Ge_In,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ga_Ge_In_Ge,EL_GE,CL_O_Ga_Ge_In,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ga_Ge_In_In,EL_IN,CL_O_Ga_Ge_In,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Li_Na_Li,EL_LI,CL_O_Li_Na,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Li_Na_Na,EL_NA,CL_O_Li_Na,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Cu_Cu,EL_CU,CL_O_Cu,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ni_Co_Mn_Ni,EL_NI,CL_O_Ni_Co_Mn,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ni_Co_Mn_Co,EL_CO,CL_O_Ni_Co_Mn,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Ni_Co_Mn_Mn,EL_MN,CL_O_Ni_Co_Mn,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层
+RCE_O2_Si_Si,EL_SI,CL_O_Si,Element,Cluster,BELONGS_TO,primary,V2.2 补簇：由 graph family 回填 ontology 层

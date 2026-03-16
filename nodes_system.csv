@@ -1,0 +1,8 @@
+﻿system_id,system_name_cn,system_name_en,system_domain,system_description,strategic_weight,label
+SY_EV,电动汽车,Electric Vehicle,MOBILITY,以电池、电驱、功率电子为核心的移动电气化系统,L1,System
+SY_BESS,电网侧储能系统,Battery Energy Storage System,GRID,用于电网调峰、调频与时间平移,L1,System
+SY_DATA_CENTER,数据中心,Data Center,COMPUTE,高密度计算与电力/散热系统集合,L1,System
+SY_PV_FARM,光伏电站,Solar Farm,ENERGY,大规模光伏发电系统,L1,System
+SY_WIND_FARM,风电场,Wind Farm,ENERGY,风机集群发电系统,L1,System
+SY_HYDROGEN_PLANT,绿氢工厂,Green Hydrogen Plant,HYDROGEN,以电解槽为核心的制氢系统,L2,System
+SY_INDUSTRIAL_ROBOT,工业机器人,Industrial Robot,AUTOMATION,伺服、电机、控制器组合系统,L2,System

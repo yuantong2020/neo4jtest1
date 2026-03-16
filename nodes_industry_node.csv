@@ -1,0 +1,8 @@
+﻿industry_node_id,node_name_cn,node_name_en,node_stage,stage_description,label
+IN_MINING,采矿 / 盐湖提取,Mining / Brine Extraction,UPSTREAM,从矿石或盐湖获取初级资源,IndustryNode
+IN_REFINING,精炼 / 分离,Refining / Separation,MIDSTREAM,把矿物转为高纯金属、盐、氧化物或稀土分离物,IndustryNode
+IN_PRECURSOR,前驱体 / 中间材料,Precursors / Intermediate Materials,MIDSTREAM,前驱体、粉体、浆料、靶材、外延材料等,IndustryNode
+IN_CRYSTAL_GROWTH,晶体生长 / 外延,Crystal Growth / Epitaxy,MIDSTREAM,拉晶、SiC长晶、GaN外延等,IndustryNode
+IN_COMPONENT_MFG,器件制造,Device Manufacturing,DOWNSTREAM,电芯、芯片、磁材、电机、组件等制造,IndustryNode
+IN_SYSTEM_INTEGRATION,系统集成,System Integration,DOWNSTREAM,整车、储能系统、电站、数据中心、制氢站,IndustryNode
+IN_RECYCLING,回收再生,Recycling,CIRCULAR,退役电池、磁材、贵金属、铜铝等回收闭环,IndustryNode
